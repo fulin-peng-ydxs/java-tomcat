@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d62a9bb-ef2e-4c15-8f3a-6050f21f2cab" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Tomcat/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tomcat/tomcat-newSdk/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tomcat/tomcat-newSdk/src/main/java/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tomcat/tomcat-source/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tomcat/tomcat-use/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tomcat/tomcat-use/src/main/resources/Tomcat参考.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="1d62a9bb-ef2e-4c15-8f3a-6050f21f2cab" name="更改" comment="Tomcat1.0&#10;--&gt;构建初始化提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +59,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Git\java-tomcat\Tomcat\tomcat-use\src\main\resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\java-tomcat" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -91,11 +87,24 @@
       <updated>1636371236408</updated>
       <workItem from="1636371237998" duration="8651000" />
       <workItem from="1636732395575" duration="7288000" />
-      <workItem from="1636879960369" duration="1776000" />
+      <workItem from="1636879960369" duration="2153000" />
     </task>
+    <task id="LOCAL-00001" summary="Tomcat1.0&#10;--&gt;构建初始化提交">
+      <created>1636886138580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636886138580</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更改" />
+    <MESSAGE value="Tomcat1.0&#10;--&gt;构建初始化提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tomcat1.0&#10;--&gt;构建初始化提交" />
   </component>
 </project>
