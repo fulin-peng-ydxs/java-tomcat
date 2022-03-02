@@ -11,7 +11,7 @@
     <modules>
         <module>tomcat-use</module>
         <module>tomcat-source</module>
-        <module>tomcat-newSdk</module>
+        <module>tomcat-newsdk</module>
     </modules>
 
     <dependencies>
