@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>tomcat.root</groupId>
-    <artifactId>Tomcat</artifactId>
+    <groupId>S1897.java.tomcat</groupId>
+    <artifactId>tomcat</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -13,6 +13,7 @@
         <module>tomcat-source</module>
         <module>tomcat-newSdk</module>
     </modules>
+
     <dependencies>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -27,4 +28,5 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+
 </project>
